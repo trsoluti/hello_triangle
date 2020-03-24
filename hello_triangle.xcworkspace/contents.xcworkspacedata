@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:"
+      name = "hello_triangle">
+      <FileRef
+         location = "group:README.md">
+      </FileRef>
+      <FileRef
+         location = "group:GlueLib/GlueLib.xcodeproj">
+      </FileRef>
+      <Group
+         location = "container:"
+         name = "HelloTriangle">
+         <FileRef
+            location = "group:HelloTriangle/HelloTriangle.xcodeproj">
+         </FileRef>
+      </Group>
+   </Group>
+</Workspace>
